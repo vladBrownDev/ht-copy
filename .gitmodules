@@ -1,0 +1,345 @@
+[submodule "mod/attendance"]
+	path = mod/attendance
+	url = ../../moodle-plugins/moodle-mod_attendance.git
+	branch = MOODLE_38_STABLE
+[submodule "mod/certificate"]
+	path = mod/certificate
+	url = ../../moodle-plugins/moodle-mod_certificate.git
+	branch = master
+[submodule "mod/checklist"]
+	path = mod/checklist
+	url = ../../moodle-plugins/moodle-mod_checklist.git
+[submodule "mod/choicegroup"]
+	path = mod/choicegroup
+	url = ../../moodle-plugins/moodle-mod_choicegroup.git
+[submodule "mod/forumng"]
+	path = mod/forumng
+	url = ../../moodle-plugins/mod_forumng.git
+[submodule "mod/game"]
+	path = mod/game
+	url = ../../moodle-plugins/moodle-mod_game.git
+[submodule "mod/hotpot"]
+	path = mod/hotpot
+	url = ../../moodle-plugins/moodle-mod_hotpot.git
+[submodule "mod/hotquestion"]
+	path = mod/hotquestion
+	url = ../../moodle-plugins/moodle-mod_hotquestion.git
+[submodule "mod/lightboxgallery"]
+	path = mod/lightboxgallery
+	url = ../../moodle-plugins/moodle-mod_lightboxgallery.git
+[submodule "mod/moechoice"]
+	path = mod/moechoice
+	url = ../../moodle-plugins/moodle-mod_moechoice.git
+[submodule "mod/moeworksheets"]
+	path = mod/moeworksheets
+	url = ../../moodle-plugins/moodle-mod_moeworksheets.git
+[submodule "mod/moeyworksheets"]
+	path = mod/moeyworksheets
+	url = ../../moodle-plugins/moodle-mod_moeyworksheets.git
+[submodule "mod/oublog"]
+	path = mod/oublog
+	url = ../../moodle-plugins/moodle-mod_oublog.git
+[submodule "mod/ouwiki"]
+	path = mod/ouwiki
+	url = ../../moodle-plugins/mod-mod_ouwiki.git
+[submodule "mod/questionnaire"]
+	path = mod/questionnaire
+	url = ../../moodle-plugins/moodle-mod_questionnaire.git
+	branch = MOODLE_400_MOE
+[submodule "mod/quizsbs"]
+	path = mod/quizsbs
+	url = ../../moodle-plugins/moodle-mod_quizsbs.git
+[submodule "mod/scheduler"]
+	path = mod/scheduler
+	url = ../../moodle-plugins/moodle-mod_scheduler.git
+[submodule "mod/tab"]
+	path = mod/tab
+	url = ../../moodle-plugins/moodle-mod_tab.git
+[submodule "mod/data/field/tag"]
+	path = mod/data/field/tag
+	url = ../../moodle-plugins/moodle-datafield_tag.git
+[submodule "blocks/accessibility"]
+	path = blocks/accessibility
+	url = ../../moodle-plugins/moodle-block_accessibility.git
+[submodule "blocks/admin_presets"]
+	path = blocks/admin_presets
+	url = ../../moodle-plugins/moodle-block_admin_presets.git
+[submodule "blocks/checklist"]
+	path = blocks/checklist
+	url = ../../moodle-plugins/moodle-block_checklist.git
+[submodule "blocks/configurable_reports"]
+	path = blocks/configurable_reports
+	url = ../../moodle-plugins/moodle-block_configurable_reports.git
+[submodule "blocks/databasetags"]
+	path = blocks/databasetags
+	url = ../../moodle-plugins/moodle-block_databasetags.git
+[submodule "blocks/enrol_apply"]
+	path = blocks/enrol_apply
+	url = ../../moodle-plugins/moodle-block_enrol_apply.git
+[submodule "blocks/import_remote_course"]
+	path = blocks/import_remote_course
+	url = ../../moodle-plugins/moodle-block_import_remote_course.git
+[submodule "blocks/news_items_scrolling"]
+	path = blocks/news_items_scrolling
+	url = ../../moodle-plugins/moodle-block_news_items_scrolling.git
+[submodule "blocks/quickfindlist"]
+	path = blocks/quickfindlist
+	url = ../../moodle-plugins/moodle-block_quickfindlist.git
+[submodule "blocks/search"]
+	path = blocks/search
+	url = ../../moodle-plugins/moodle-block_search.git
+[submodule "blocks/sharing_cart"]
+	path = blocks/sharing_cart
+	url = ../../moodle-plugins/moodle-block_sharing_cart.git
+[submodule "blocks/xp"]
+	path = blocks/xp
+	url = ../../moodle-plugins/moodle-block_xp.git
+[submodule "question/type/ddmatch"]
+	path = question/type/ddmatch
+	url = ../../moodle-plugins/moodle-qtype_ddmatch.git
+[submodule "question/type/formulas"]
+	path = question/type/formulas
+	url = ../../moodle-plugins/moodle-qtype_formulas.git
+[submodule "question/type/gapfill"]
+	path = question/type/gapfill
+	url = ../../moodle-plugins/moodle-qtype_gapfill.git
+[submodule "question/type/geogebra"]
+	path = question/type/geogebra
+	url = ../../moodle-plugins/moodle-qtype_geogebra.git
+[submodule "question/type/moemarker"]
+	path = question/type/moemarker
+	url = ../../moodle-plugins/moodle-qtype_moemarker.git
+	branch = main41
+[submodule "question/type/moetemplateessay"]
+	path = question/type/moetemplateessay
+	url = ../../moodle-plugins/moodle-qtype_moetemplateessay.git
+[submodule "question/type/ordering"]
+	path = question/type/ordering
+	url = ../../moodle-plugins/moodle-qtype_ordering.git
+[submodule "question/type/oumultiresponse"]
+	path = question/type/oumultiresponse
+	url = ../../moodle-plugins/moodle-qtype_oumultiresponse.git
+[submodule "question/type/stack"]
+	path = question/type/stack
+	url = ../../moodle-plugins/moodle-qtype_stack.git
+	branch = master
+[submodule "question/type/wordselect"]
+	path = question/type/wordselect
+	url = ../../moodle-plugins/moodle-qtype_wordselect.git
+[submodule "question/behaviour/adaptivemultipart"]
+	path = question/behaviour/adaptivemultipart
+	url = ../../moodle-plugins/moodle-qbehaviour_adaptivemultipart.git
+[submodule "question/behaviour/dfcbmexplicitvaildate"]
+	path = question/behaviour/dfcbmexplicitvaildate
+	url = ../../moodle-plugins/moodle-qbehaviour_dfcbmexplicitvaildate.git
+[submodule "question/behaviour/dfexplicitvaildate"]
+	path = question/behaviour/dfexplicitvaildate
+	url = ../../moodle-plugins/moodle-qbehaviour_dfexplicitvaildate.git
+[submodule "filter/bookchapters"]
+	path = filter/bookchapters
+	url = ../../moodle-plugins/moodle-filter_bookchapters.git
+[submodule "filter/embedquestion"]
+	path = filter/embedquestion
+	url = ../../moodle-plugins/moodle-filter_embedquestion.git
+[submodule "filter/poodll"]
+	path = filter/poodll
+	url = ../../moodle-plugins/moodle-filter_poodll.git
+[submodule "filter/tooltip"]
+	path = filter/tooltip
+	url = ../../moodle-plugins/moodle-filter_tooltip.git
+[submodule "lib/editor/atto/plugins/bsgrid"]
+	path = lib/editor/atto/plugins/bsgrid
+	url = ../../moodle-plugins/moodle-atto_bsgrid.git
+[submodule "lib/editor/atto/plugins/embedquestion"]
+	path = lib/editor/atto/plugins/embedquestion
+	url = ../../moodle-plugins/moodle-atto_embedquestion.git
+[submodule "lib/editor/atto/plugins/fontfamily"]
+	path = lib/editor/atto/plugins/fontfamily
+	url = ../../moodle-plugins/moodle-atto_fontfamily.git
+[submodule "lib/editor/atto/plugins/fontsize"]
+	path = lib/editor/atto/plugins/fontsize
+	url = ../../moodle-plugins/moodle-atto_fontsize.git
+[submodule "lib/editor/atto/plugins/fullscreen"]
+	path = lib/editor/atto/plugins/fullscreen
+	url = ../../moodle-plugins/moodle-atto_fullscreen.git
+[submodule "lib/editor/atto/plugins/htmlplus"]
+	path = lib/editor/atto/plugins/htmlplus
+	url = ../../moodle-plugins/moodle-atto_htmlplus.git
+[submodule "lib/editor/atto/plugins/morefontcolors"]
+	path = lib/editor/atto/plugins/morefontcolors
+	url = ../../moodle-plugins/moodle-atto_morefontcolors.git
+[submodule "lib/editor/atto/plugins/poodll"]
+	path = lib/editor/atto/plugins/poodll
+	url = ../../moodle-plugins/moodle-atto_poodll.git
+[submodule "lib/editor/atto/plugins/sketch"]
+	path = lib/editor/atto/plugins/sketch
+	url = ../../moodle-plugins/moodle-atto_sketch.git
+[submodule "lib/editor/atto/plugins/snippet"]
+	path = lib/editor/atto/plugins/snippet
+	url = ../../moodle-plugins/moodle-atto_snippet.git
+[submodule "lib/editor/atto/plugins/styles"]
+	path = lib/editor/atto/plugins/styles
+	url = ../../moodle-plugins/moodle-atto_styles.git
+[submodule "enrol/apply"]
+	path = enrol/apply
+	url = ../../moodle-plugins/moodle-enrol_apply.git
+[submodule "enrol/auto"]
+	path = enrol/auto
+	url = ../../moodle-plugins/moodle-enrol_auto.git
+[submodule "auth/saml"]
+	path = auth/saml
+	url = ../../moodle-plugins/moodle-auth_saml.git
+[submodule "admin/tool/editrolesbycap"]
+	path = admin/tool/editrolesbycap
+	url = ../../moodle-plugins/moodle-tool_editrolesbycap.git
+[submodule "admin/tool/lockstats"]
+	path = admin/tool/lockstats
+	url = ../../moodle-plugins/moodle-tool_lockstats.git
+[submodule "admin/tool/mergeusers"]
+	path = admin/tool/mergeusers
+	url = ../../moodle-plugins/moodle-tool_mergeusers.git
+[submodule "course/format/grid"]
+	path = course/format/grid
+	url = ../../moodle-plugins/moodle-format_grid.git
+[submodule "course/format/moetiles"]
+	path = course/format/moetiles
+	url = ../../moodle-plugins/moodle-format_moetiles.git
+	branch = ticket7754
+[submodule "course/format/moetopcoll"]
+	path = course/format/moetopcoll
+	url = ../../moodle-plugins/moodle-format_moetopcoll.git
+	branch = main41
+[submodule "course/format/multitopic"]
+	path = course/format/multitopic
+	url = ../../moodle-plugins/moodle-format_multitopic.git
+[submodule "course/format/multitopicmoe"]
+	path = course/format/multitopicmoe
+	url = ../../moodle-plugins/moodle-format_multitopicmoe.git
+	branch = main41
+[submodule "course/format/onetopic"]
+	path = course/format/onetopic
+	url = ../../moodle-plugins/moodle-format_onetopic.git
+[submodule "course/format/topcoll"]
+	path = course/format/topcoll
+	url = ../../moodle-plugins/moodle-format_topcoll.git
+[submodule "course/format/trail"]
+	path = course/format/trail
+	url = ../../moodle-plugins/moodle-format_trail.git
+[submodule "report/archivemigration"]
+	path = report/archivemigration
+	url = ../../moodle-plugins/moodle-report_archivemigration.git
+[submodule "report/editdates"]
+	path = report/editdates
+	url = ../../moodle-plugins/moodle-report_editdates.git
+[submodule "report/editgroups"]
+	path = report/editgroups
+	url = ../../moodle-plugins/moodle-report_editgroups.git
+[submodule "report/learningmanagement"]
+	path = report/learningmanagement
+	url = ../../moodle-plugins/moodle-report_learningmanagement.git
+[submodule "report/moereports"]
+	path = report/moereports
+	url = ../../moodle-plugins/moodle-report_moereports.git
+[submodule "report/myfeedback"]
+	path = report/myfeedback
+	url = ../../moodle-plugins/moodle-report_myfeedback.git
+[submodule "report/roster"]
+	path = report/roster
+	url = ../../moodle-plugins/moodle-report_roster.git
+[submodule "local/add_grades"]
+	path = local/add_grades
+	url = ../../moodle-plugins/moodle-add_grades.git
+[submodule "local/add_switch_role"]
+	path = local/add_switch_role
+	url = ../../moodle-plugins/moodle-local_add_switch_role.git
+[submodule "local/auto_course_create"]
+	path = local/auto_course_create
+	url = ../../moodle-plugins/moodle-local_auto_course_create.git
+[submodule "local/changelang"]
+	path = local/changelang
+	url = ../../moodle-plugins/moodle-local_changelang.git
+[submodule "local/course_request"]
+	path = local/course_request
+	url = ../../moodle-plugins/moodle-local_course_request.git
+[submodule "local/moecontrol"]
+	path = local/moecontrol
+	url = ../../moodle-plugins/moodle-local_moecontrol.git
+[submodule "local/notes"]
+	path = local/notes
+	url = ../../moodle-plugins/moodle-local_notes.git
+[submodule "local/quiz_generator"]
+	path = local/quiz_generator
+	url = ../../moodle-plugins/moodle-local_quiz_generator.git
+[submodule "local/reminders"]
+	path = local/reminders
+	url = ../../moodle-plugins/moodle-local_reminders.git
+[submodule "local/remote_backup_provider"]
+	path = local/remote_backup_provider
+	url = ../../moodle-plugins/moodle-local_remote_backup_provider.git
+[submodule "local/resetsandbox"]
+	path = local/resetsandbox
+	url = ../../moodle-plugins/moodle-local_resetsandbox.git
+[submodule "local/searchquestions"]
+	path = local/searchquestions
+	url = ../../moodle-plugins/moodle-local_searchquestions.git
+[submodule "local/teamwork"]
+	path = local/teamwork
+	url = ../../moodle-plugins/moodle-local_teamwork.git
+[submodule "local/unusedquestions"]
+	path = local/unusedquestions
+	url = ../../moodle-plugins/moodle-local_unusedquestions.git
+[submodule "local/wizard"]
+	path = local/wizard
+	url = ../../moodle-plugins/moodle-local_wizard.git
+[submodule "blocks/massaction"]
+	path = blocks/massaction
+	url = ../../moodle-plugins/moodle-block_massaction.git
+[submodule "blocks/messageteacher"]
+	path = blocks/messageteacher
+	url = ../../moodle-plugins/moodle-block_messageteacher.git
+[submodule "blocks/moe_course_metadata"]
+	path = blocks/moe_course_metadata
+	url = ../../moodle-plugins/moodle-block_moe_course_metadata.git
+[submodule "mod/assign/submission/teamwork"]
+	path = mod/assign/submission/teamwork
+	url = ../../moodle-plugins/moodle-assignsubmission_teamwork.git
+[submodule "question/type/poodllrecording"]
+	path = question/type/poodllrecording
+	url = ../../moodle-plugins/moodle-qtype_poodllrecording.git
+[submodule "admin/tool/brcli"]
+	path = admin/tool/brcli
+	url = ../../moodle-plugins/moodle-tool_brcli.git
+[submodule "admin/tool/log/store/xapi"]
+	path = admin/tool/log/store/xapi
+	url = ../../moodle-plugins/moodle-logstore_xapi.git
+[submodule "course/format/tiles"]
+	path = course/format/tiles
+	url = ../../moodle-plugins/moodle-format_tiles.git
+	branch = moodle40
+[submodule "mod/moewiki"]
+	path = mod/moewiki
+	url = ../../moodle-plugins/moodle-mod_moewiki.git
+[submodule "mod/quiz/accessrule/honestycheck"]
+	path = mod/quiz/accessrule/honestycheck
+	url = ../../moodle-plugins/moodle-quizaccess_honestycheck.git
+[submodule "local/metadata"]
+	path = local/metadata
+	url = ../../moodle-plugins/moodle-local_metadata.git
+[submodule "theme/morpheus"]
+	path = theme/morpheus
+	url = ../../moodle-plugins/moodle-theme_morpheus.git
+[submodule "availability/condition/xp"]
+	path = availability/condition/xp
+	url = ../../moodle-plugins/moodle-availability_xp.git
+[submodule "mod/hvp"]
+	path = mod/hvp
+	url = ../../moodle-plugins/moodle-mod_hvp.git
+[submodule "theme/morpheusy"]
+	path = theme/morpheusy
+	url = ../../moodle-plugins/moodle-theme_morpheusy.git
+[submodule "mod/googlemeet"]
+	path = mod/googlemeet
+	url = ../../moodle-plugins/moodle-mod_googlemeet.git
+[submodule "mod/moelabel"]
+	path = mod/moelabel
+        url = ../../moodle-plugins/moodle-mod_moelabel.git
